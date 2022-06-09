@@ -1,0 +1,25 @@
+body {
+    color: #2D2D2D;
+    background-size: cover;
+    font-family: sans-serif;
+    background-repeat:no-repeat;
+    font-size: 14px;
+}
+
+.tag-card{
+    display: flex;
+    margin: 20px 20px;
+    color: white;
+}
+
+.col{
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.card{
+    align-items: center;
+    padding: 10px;
+    margin: 0 5rem;
+    background-color: #3B3738;
+}
